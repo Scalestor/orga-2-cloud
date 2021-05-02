@@ -1,0 +1,18 @@
+{
+  "TESTID": {
+  "properties": {
+    "name": "Test-Process",
+    "version": "0.0.1",
+    "Id": "TESTID",
+    "Author": "Malte"
+  },
+  "actions": {
+    "start": {
+      "action_name": "TEST_ACTION",
+      "action_parameters": {
+        "parameter1": "Dies ist Parameter 1"
+      }
+    }
+  }
+  }
+}
